@@ -37,14 +37,14 @@ Created a platform to connect donors and receivers using Firebase.
 ---
 
 ## 📊 Coding Profiles
-- 🔗 LeetCode: https://leetcode.com/your-username  
+- 🔗 LeetCode: https://leetcode.com/u/fBGLUQHKSZ/
 - 🔗 GitHub: https://github.com/agrawalha  
 
 ---
 
 ## 📫 Contact Me
-- Email: your-email@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: harshjti0307@gmail.com
+- LinkedIn: www.linkedin.com/in/harsh-agrawal-11504b2b1
 
 ---
 
