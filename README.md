@@ -1,16 +1,51 @@
-## Hi there 👋
+# Harsh Agrawal
 
-<!--
-**agrawalha/agrawalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android Developer | DSA Enthusiast | AI/ML Learner
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building real-world Android applications using Kotlin and Firebase.  
+Currently pursuing B.Tech in Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- **Languages:** C++, Java, Kotlin  
+- **Mobile:** Android Development  
+- **Backend:** Firebase, REST APIs  
+- **Database:** Firebase Realtime DB  
+- **Tools:** Git, GitHub  
+
+---
+
+## 📱 Featured Projects
+
+### 🔹 Android Food App
+Built a complete food ordering app with Firebase Authentication and Realtime Database.  
+**Tech:** Kotlin, Firebase  
+
+---
+
+### 🔹 Video Compression App
+Developed an Android app using FFmpeg for video compression and enhancement.  
+**Tech:** Kotlin, FFmpeg  
+
+---
+
+### 🔹 Blood Donation App
+Created a platform to connect donors and receivers using Firebase.  
+**Tech:** Kotlin, Firebase  
+
+---
+
+## 📊 Coding Profiles
+- 🔗 LeetCode: https://leetcode.com/your-username  
+- 🔗 GitHub: https://github.com/agrawalha  
+
+---
+
+## 📫 Contact Me
+- Email: your-email@gmail.com  
+- LinkedIn: https://linkedin.com/in/your-profile  
+
+---
+
+⭐ Open to internships and collaborations
